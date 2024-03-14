@@ -7,7 +7,7 @@
 )](https://t.me/+A2QdlpCBeZo1MDkx)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sc_peu/)
 
-![PeutoWin GitHub stats](https://github-readme-stats.vercel.app/api?username=PeutoWin&show_icons=true&theme=tokyonight)
+![devpeu GitHub stats](https://github-readme-stats.vercel.app/api?username=devpeu&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia:
 
@@ -26,6 +26,6 @@ Apaixonado por tecnologia, educação e por mudar vidas através da programaçã
 
 ## Ultimos projetos:
 
-- [Tabelas - Html,CSS](https://github.com/PeutoWin/Tables)<br/>
-- [Gerador de CPF - JS,Html5,CSS](https://github.com/PeutoWin/Gerador-De-Cep)<br/>
-- [Trabalhos](https://github.com/PeutoWin/Trabalhos)
+- [Tabelas - Html,CSS](https://github.com/devpeu/Tables)<br/>
+- [Gerador de CPF - JS,Html5,CSS](https://github.com/devpeu/Gerador-De-Cep)<br/>
+- [Trabalhos](https://github.com/devpeu/Trabalhos)
